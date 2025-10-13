@@ -18,7 +18,7 @@
     "@vue/devtools-api": "7.7.2",
     "@wagmi/core": "2.19.0",
     "@wagmi/vue": "0.1.27",
-    "@walletconnect/logger": "2.1.2",
+    "@walletconnect/logger": "3.0.0",
     "nuxt": "3.16.0",
     "viem": "2.33.3",
     "vue": "3.5.13",
